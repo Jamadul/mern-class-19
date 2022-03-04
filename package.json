@@ -1,0 +1,14 @@
+{
+  "name": "formapi",
+  "version": "1.0.0",
+  "description": "awal",
+  "main": "index.js",
+  "scripts": {
+    "test": "json-server --watch db.json --port 3456"
+  },
+  "author": "awal",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
